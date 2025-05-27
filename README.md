@@ -71,7 +71,7 @@ Evaluated on:
 A Tkinter-based user interface allows users to input health metrics and receive real-time stress predictions.
 
 **Screenshot Example**  
-![GUI Screenshot](screenshots/interface.png)
+![GUI Screenshot](https://github.com/Engr-Talha-Nazir/An-End-to-End-AI-System-for-Psychological-Stress-Classification/blob/main/GUI%20.png)
 
 ---
 
