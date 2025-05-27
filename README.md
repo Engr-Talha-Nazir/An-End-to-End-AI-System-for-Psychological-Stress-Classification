@@ -101,10 +101,6 @@ pip install -r requirements.txt
 jupyter notebook stress_prediction.ipynb
 ```
 
-### 🖥️ Launch GUI
-```bash
-python gui/stress_gui.py
-```
 
 ---
 
