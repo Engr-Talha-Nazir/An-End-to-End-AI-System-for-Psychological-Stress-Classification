@@ -78,15 +78,13 @@ A Tkinter-based user interface allows users to input health metrics and receive 
 ## 📂 Folder Structure
 
 ```
-stress-prediction-ml/
-├── data/                     # Cleaned dataset and raw input
-├── models/                   # Trained model files
-├── gui/                      # Tkinter GUI code
-├── notebooks/                # Jupyter notebooks
-├── outputs/                  # Charts and reports
-├── stress_prediction.ipynb   # Main notebook
-├── requirements.txt          # Project dependencies
-└── README.md                 # Project documentation
+An-End-to-End-AI-System-for-Psychological-Stress-Classification/
+├── GUI.png                                # Screenshot of the user interface
+├── README.md                              # Project overview and documentation
+├── Stress prediction using Machine Learning.ipynb  # End-to-end ML notebook
+├── random_forest_model.pkl                # Trained Random Forest model
+├── requirements.txt                       # List of Python dependencies
+
 ```
 
 ---
