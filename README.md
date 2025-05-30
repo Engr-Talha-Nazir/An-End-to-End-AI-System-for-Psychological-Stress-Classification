@@ -1,5 +1,5 @@
 
-# 🧠 Stress Prediction Using Machine Learning
+# 🧠 A Real-Time Multimodal Machine Learning Framework for Tri-Level Stress Classification Using Physiological and Behavioral Signals
 **An End-to-End AI System for Psychological Stress Classification**
 
 ---
